@@ -25,7 +25,7 @@ such as product information, shipping information, and inventory information. By
 decentralized storage system, the supply chain data can be made more secure and
 transparent, and the risk of data tampering and fraud can be reduced.
 # LANGUAGES / SOFTWARE USED
-*Web3.js
+ Markup : *Web3.js
 *Truffle
 *Ethereum
 *Solidity
